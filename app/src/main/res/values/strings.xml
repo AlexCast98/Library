@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">libraryApi</string>
+    <string-array name="opcionesTipoConsulta">
+        <item>Todos los Campos</item>
+        <item>Autor</item>
+        <item>Titulo</item>
+        <item>Materia</item>
+    </string-array>
+    <string-array name="opcionesCatalogoConsulta">
+        <item>Catalogo CorSalud</item>
+    </string-array>
+</resources>
